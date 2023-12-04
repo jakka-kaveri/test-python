@@ -1,5 +1,5 @@
 import time
 
-for i in range(50):
-    time.sleep(3)
+for i in range(15):
+    time.sleep(10)
     print("test-{}".format(i))
